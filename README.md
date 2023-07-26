@@ -10,7 +10,7 @@
 
 ## About Dataset
 #### The dataset includes:
-##### Cl ID, Geo ID, Date, Vol
+##### Cl ID, Geo ID, Date, Volume, Geo Name, Quarters
 
 ## This repository contains:
 1. Data wrangling 
